@@ -23,16 +23,16 @@
     "@eslint/js": "^10.0.1",
     "@jest/globals": "^30.3.0",
     "@tsconfig/node22": "^22.0.5",
-    "@types/node": "^22.19.15",
-    "eslint": "^10.0.3",
-    "eslint-plugin-jest": "^29.15.0",
+    "@types/node": "^22.19.17",
+    "eslint": "^10.2.0",
+    "eslint-plugin-jest": "^29.15.2",
     "jest": "^30.3.0",
-    "prettier": "^3.8.1",
-    "ts-jest": "^29.4.6",
+    "prettier": "^3.8.2",
+    "ts-jest": "^29.4.9",
     "typescript": "^5.9.3",
-    "typescript-eslint": "8.57.1"
+    "typescript-eslint": "8.58.2"
   },
   "dependencies": {
-    "csv-parse": "^6.1.0"
+    "csv-parse": "^6.2.1"
   }
 }
