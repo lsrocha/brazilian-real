@@ -1,6 +1,7 @@
 {
   "extends": "@tsconfig/node22",
   "compilerOptions": {
+    "rootDir": "src",
     "outDir": "dist",
     "isolatedModules": true,
     "allowImportingTsExtensions": true,
