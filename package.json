@@ -33,6 +33,6 @@
     "typescript-eslint": "8.62.1"
   },
   "dependencies": {
-    "csv-parse": "^6.2.1"
+    "csv-parse": "^7.0.0"
   }
 }
